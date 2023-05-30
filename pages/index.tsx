@@ -52,7 +52,7 @@ const Home: NextPage = () => {
             className="bg-black rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-black/80"
             href="/restore"
           >
-            Restore your photos
+            Colorize your photos
           </Link>
         </div>
         <div className="flex justify-between items-center w-full flex-col sm:mt-10 mt-6">
