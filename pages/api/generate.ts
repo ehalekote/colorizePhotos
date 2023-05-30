@@ -48,8 +48,8 @@ export default async function handler(
     },
     body: JSON.stringify({
       version:
-        "9283608cc6b7be6b65a8e44983db012355fde4132009bf99d976b2f0896856a3",
-      input: { img: imageUrl, version: "v1.4", scale: 2 },
+        "9451bfbf652b21a9bccc741e5c7046540faa5586cfa3aa45abc7dbb46151a4f7",
+      input: { image: imageUrl, mode: "Real Gray Colorization", classes: 88 },
     }),
   });
 
